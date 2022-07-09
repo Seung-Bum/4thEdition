@@ -12,6 +12,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 	<repositories>
+		<!-- .java로도 작성이 가능하다. -->
 		<repository>
 			<id>spring-maven-release</id>
 			<name>Spring Maven Release Repository</name>
